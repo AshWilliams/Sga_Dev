@@ -1,0 +1,356 @@
+﻿/*----------------------------------------------------------
+El color base de esta plantilla es #5c87b2. Si desea
+usar otro color, empiece por reemplazar todas las instancias de
+#5c87b2 con el nuevo color.
+----------------------------------------------------------*/
+body {
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 13px;
+	margin:0;
+	padding:0;
+	background:#f0f0f0;
+	color:#666;
+}
+a:link{
+	color:#c00;
+}
+a:visited{
+	color:#900;
+}
+a:hover{
+	color:#f00;
+}
+table{
+	width:100%;
+	border-collapse:collapse;
+}
+th{
+	font-size:14px;
+	background:#999;
+	color:#FFF;
+}
+
+/* TÍTULOS   
+----------------------------------------------------------*/
+h2{
+	display:block;
+	margin:0 -30px 10px -30px;
+	background:#999;
+	padding:10px 30px;
+	text-shadow: 4px 4px 4px #666;
+	color:#FFF;
+}
+h3{
+	color:#C00;
+}
+h4, h5, h6{
+	color:#000;
+}
+
+/* ELEMENTOS DE DISEÑO PRIMARIO   
+----------------------------------------------------------*/
+
+/* puede especificar un porcentaje mayor o menor para el 
+ancho de página. O bien puede especificar un ancho de píxel exacto. */
+.page
+{
+   width:990px;
+	margin:0 auto;
+	background-color:#fff;
+}
+
+#header
+{
+   height:160px;
+	padding-top:10px;
+	background-image:url(images/header.png);
+	background-repeat:no-repeat;
+}
+#title{
+	display:none;
+}
+
+/*#header h1
+{
+    font-weight: bold;
+    padding: 5px 0;
+    margin: 0;
+    color: #fff;
+    border: none;
+    line-height: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px !important;
+}*/
+
+#main
+{  padding:0 30px;
+    background-color: #fff;
+    _height: 1px; /* solo IE6 aplica las propiedades de CSS con un carácter de subrayado inicial */
+}
+
+#footer
+{
+   	background:#666;
+	color:#FFF;
+	padding:10px 30px;
+	margin: 30px -30px;
+}
+
+/* MENÚ TABULADOR   
+----------------------------------------------------------*/
+#menucontainer {
+	background:#F00;
+	color:#FFF;
+	padding:5px 30px;
+	height:15px;
+}
+#menucontainer ul{
+	font-size:14px;
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+#menucontainer ul li{
+	float:left;
+	text-transform:uppercase;
+	font-weight:bold;
+	padding:0 20px;
+	/*border-right: 1px solid #FFF;*/
+	border-left: 1px solid #FFF;
+}
+
+#menucontainer ul li a{
+	display:block;
+}
+#menucontainer ul li a:link{
+	color:#FCC;
+	text-decoration:none;
+}
+#menucontainer ul li a:visited{
+	color:#FCC;
+	text-decoration:none;
+}
+#menucontainer ul li a:hover{
+	color:#FFF;
+	text-decoration:none;
+}
+#menucontainer ul li:last-child{
+        border-right: 1px solid #FFF;
+        }
+
+/* ELEMENTOS DE DISEÑO DE FORMULARIOS  
+----------------------------------------------------------*/
+
+fieldset 
+{
+    margin: 1em 0;
+    padding: 1em;
+    border: 1px solid #CCC;
+}
+
+fieldset p 
+{
+    margin: 2px 12px 10px 10px;
+}
+
+legend 
+{
+    font-size: 1.1em;
+    font-weight: 600;
+    padding: 2px 4px 8px 4px;
+}
+
+/* TABLA
+----------------------------------------------------------*/
+
+table 
+{
+  border: solid 1px #e8eef4;
+  border-collapse: collapse;
+}
+
+table td 
+{
+  padding: 5px;   
+  border: solid 1px #e8eef4;
+}
+
+table th
+{
+  padding: 6px 5px;
+  text-align: left;
+  background-color: #e8eef4; 
+  border: solid 1px #e8eef4;   
+}
+
+/* VARIOS  
+----------------------------------------------------------*/
+.clear
+{
+    clear: both;
+}
+
+.error
+{
+    color:Red;
+}
+
+/*#menucontainer
+{
+    margin-top:40px;
+}*/
+
+div#title
+{
+	display:none;
+ /*   display:block;
+    float:left;
+    text-align:left;*/
+}
+
+#logindisplay
+{
+    font-size:12px;
+    text-align:right;
+    margin:10px;
+	padding-bottom:80px;
+}
+
+/*#logindisplay a:link
+{
+    color: white;
+    text-decoration: underline;
+}
+
+#logindisplay a:visited
+{
+    color: white;
+    text-decoration: underline;
+}
+
+#logindisplay a:hover
+{
+    color: white;
+    text-decoration: none;
+}*/
+
+/* Estilos para aplicaciones auxiliares de validación
+-----------------------------------------------------------*/
+.field-validation-error
+{
+    color: #ff0000;
+}
+
+.field-validation-valid
+{
+    display: none;
+}
+
+.input-validation-error
+{
+    border: 1px solid #ff0000;
+    background-color: #ffeeee;
+}
+
+.validation-summary-errors
+{
+    font-weight: bold;
+    color: #ff0000;
+}
+
+.validation-summary-valid
+{
+    display: none;
+}
+
+/* Estilos para aplicaciones auxiliares de editor y visualización
+----------------------------------------------------------*/
+.display-label,
+.editor-label,
+.display-field,
+.editor-field
+{
+    margin: 0.5em 0;
+}
+
+.text-box
+{
+    width: 30em;
+}
+
+.text-box.multi-line
+{
+    height: 6.5em;
+}
+
+.tri-state
+{
+    width: 6em;
+}
+input{
+	width:100%;
+}
+select{
+	width:100%;
+}
+#col1{
+	width:45%;
+	float:left;
+	margin-right:5%;
+}
+#col2{
+	width:45%;
+	float:left;
+}
+#resp_rut{
+	width:85%;
+}
+#dv{
+	width:10%;
+}
+.campo{
+	margin-bottom:10px;
+}
+#mm_concepcion{
+	width:45%;
+	margin-right:5%;
+}
+#aaaa_concepcion{
+	width:47%;
+}
+#Checkbox1{
+	width: 20px;
+}
+#guardar{
+	width:20%;
+	margin-right:5%;
+	background:#090;
+	color:#fff;
+}
+#cancelar{
+	width:20%;
+	margin-right:5%;
+	background:#f00;
+	color:#fff;
+}
+#next{
+	clear:both;
+	width:100%;
+	text-align:center;
+}
+#Rut{
+	width:36%;
+	margin-right:5%;
+}
+#buscar{
+	width:20%;
+}
+.respuesta{
+	background:#CCC;
+}
+#dialog{
+	padding:10px;
+	background:#ccc;
+	margin-bottom:30px;
+	margin-top: 20px;
+}

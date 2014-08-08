@@ -1,0 +1,31 @@
+C:\Users\ayudante.desarrollo\Desktop\SGA 3.0\SGA_test\SGA_test\obj\Debug\SGA_test.vbprojResolveAssemblyReference.cache
+C:\Users\ayudante.desarrollo\Desktop\SGA 3.0\SGA_test\SGA_test\obj\Debug\SGA_test.Resources.resources
+C:\Users\ayudante.desarrollo\Desktop\SGA 3.0\SGA_test\SGA_test\obj\Debug\SGA_test.vbproj.GenerateResource.Cache
+C:\Users\ayudante.desarrollo\Desktop\SGA 3.0\SGA_test\SGA_test\bin\SGA_test.dll
+C:\Users\ayudante.desarrollo\Desktop\SGA 3.0\SGA_test\SGA_test\bin\SGA_test.pdb
+C:\Users\ayudante.desarrollo\Desktop\SGA 3.0\SGA_test\SGA_test\bin\SGA_test.xml
+C:\Users\ayudante.desarrollo\Desktop\SGA 3.0\SGA_test\SGA_test\bin\itextsharp.dll
+C:\Users\ayudante.desarrollo\Desktop\SGA 3.0\SGA_test\SGA_test\obj\Debug\SGA_test.dll
+C:\Users\ayudante.desarrollo\Desktop\SGA 3.0\SGA_test\SGA_test\obj\Debug\SGA_test.xml
+C:\Users\ayudante.desarrollo\Desktop\SGA 3.0\SGA_test\SGA_test\obj\Debug\SGA_test.pdb
+C:\Users\ayudante.desarrollo\Desktop\SGA_v2\SGA_test\SGA_test\bin\SGA_test.dll
+C:\Users\ayudante.desarrollo\Desktop\SGA_v2\SGA_test\SGA_test\bin\SGA_test.pdb
+C:\Users\ayudante.desarrollo\Desktop\SGA_v2\SGA_test\SGA_test\bin\SGA_test.xml
+C:\Users\ayudante.desarrollo\Desktop\SGA_v2\SGA_test\SGA_test\bin\itextsharp.dll
+C:\Users\ayudante.desarrollo\Desktop\SGA_v2\SGA_test\SGA_test\obj\Debug\SGA_test.vbprojResolveAssemblyReference.cache
+C:\Users\ayudante.desarrollo\Desktop\SGA_v2\SGA_test\SGA_test\obj\Debug\SGA_test.Resources.resources
+C:\Users\ayudante.desarrollo\Desktop\SGA_v2\SGA_test\SGA_test\obj\Debug\SGA_test.vbproj.GenerateResource.Cache
+C:\Users\ayudante.desarrollo\Desktop\SGA_v2\SGA_test\SGA_test\obj\Debug\SGA_test.dll
+C:\Users\ayudante.desarrollo\Desktop\SGA_v2\SGA_test\SGA_test\obj\Debug\SGA_test.xml
+C:\Users\ayudante.desarrollo\Desktop\SGA_v2\SGA_test\SGA_test\obj\Debug\SGA_test.pdb
+C:\Users\csanchez.UVM\Desktop\SGA_v2\SGA_test\SGA_test\bin\SGA_test.dll
+C:\Users\csanchez.UVM\Desktop\SGA_v2\SGA_test\SGA_test\bin\SGA_test.pdb
+C:\Users\csanchez.UVM\Desktop\SGA_v2\SGA_test\SGA_test\bin\SGA_test.xml
+C:\Users\csanchez.UVM\Desktop\SGA_v2\SGA_test\SGA_test\bin\itextsharp.dll
+C:\Users\csanchez.UVM\Desktop\SGA_v2\SGA_test\SGA_test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\csanchez.UVM\Desktop\SGA_v2\SGA_test\SGA_test\obj\Debug\SGA_test.Resources.resources
+C:\Users\csanchez.UVM\Desktop\SGA_v2\SGA_test\SGA_test\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\csanchez.UVM\Desktop\SGA_v2\SGA_test\SGA_test\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\csanchez.UVM\Desktop\SGA_v2\SGA_test\SGA_test\obj\Debug\SGA_test.dll
+C:\Users\csanchez.UVM\Desktop\SGA_v2\SGA_test\SGA_test\obj\Debug\SGA_test.xml
+C:\Users\csanchez.UVM\Desktop\SGA_v2\SGA_test\SGA_test\obj\Debug\SGA_test.pdb
